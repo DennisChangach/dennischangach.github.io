@@ -29,6 +29,38 @@ In today's data-driven world, the ability to extract insights from databases is 
 
 In this project, we'll explore how to bridge this gap by leveraging generative AI to enable users to query databases using simple, conversational language. By enabling natural language queries, users can interact with databases in a more intuitive and user-friendly manner, without the need to learn SQL syntax. This approach democratizes access to data, empowering non-technical users to derive insights and make informed decisions.
 
-[Streamlit App)(https://db-query-assistant.streamlit.app/)
+[Streamlit App](https://db-query-assistant.streamlit.app/)
 [Github Repo](https://github.com/DennisChangach/Text_To_SQL_Superstore_Dataset)
 [Medium Article](https://medium.com/@kogeidennis/chat-with-your-database-simplifying-database-queries-a81d80d990e3)
+
+### Chat PDF
+This is an end to end LLM project that enables users to interact with the content of their PDF files using Google Gemini Pro and Langchain technologies.
+![Chat with your PDFs](assets/chat_pdf_app.png)
+
+This project provides a streamlined interface for users to ask questions about the content of their PDF files. It leverages Streamlit for the user interface, PyPDF2 for PDF parsing, Google Generative AI Embeddings for text embeddings, Langchain for text splitting and vector storage, and Google Gemini Pro for conversational AI capabilities.
+
+[Github Repo](https://github.com/DennisChangach/Chat_PDF)
+
+
+### Convo Insights
+Convo Insights is a Streamlit-based web application that leverages cutting-edge AI models to uncover insights from audio conversations. With Convo Insights, you can upload audio files and get transcriptions of conversations, along with sentiment analysis, to gain deeper understanding and valuable insights.
+![Convo Insights Streamlit App](assets/convo.png)
+
+[Github Repo](https://github.com/DennisChangach/Convo_Insight)
+[Streamlit App](https://convoinsight.streamlit.app/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
