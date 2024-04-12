@@ -12,6 +12,9 @@ My expertise includes (not limited to):
 
 Beyond traditional business sectors, I’m a contributor at Omdena, collaborating with a diverse and talented team of engineers, data scientists, and AI enthusiasts to co-create advanced AI solutions with real-world impact.
 
+[LinkedIn Profile](https://www.linkedin.com/in/chang-ach-dennis)
+[Medium Publication](https://medium.com/@kogeidennis)
+
 ## Projects
 ### Chat With Your Mpesa Statements
 ![Chat with Mpesa](/assets/Home_Page.png)
